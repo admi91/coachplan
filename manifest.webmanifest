@@ -1,0 +1,15 @@
+{
+  "id": "./",
+  "name": "CoachPlan – Allenamenti di futsal",
+  "short_name": "CoachPlan",
+  "lang": "it",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "theme_color": "#122a24",
+  "background_color": "#f2f5ee",
+  "icons": [
+    { "src": "./icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "./icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
