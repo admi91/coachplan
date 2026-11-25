@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-xX9bszZw.js",
+    "file": "assets/index-DGqfjMX6.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -18,7 +18,7 @@
     ]
   },
   "node_modules/@capacitor/app/dist/esm/index.js": {
-    "file": "assets/esm-Bp6Mjg0G.js",
+    "file": "assets/esm-MEcuIrVZ.js",
     "name": "esm",
     "src": "node_modules/@capacitor/app/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -30,7 +30,7 @@
     ]
   },
   "node_modules/@capacitor/app/dist/esm/web.js": {
-    "file": "assets/web-Bnd9SmQ4.js",
+    "file": "assets/web-D3Sum264.js",
     "name": "web",
     "src": "node_modules/@capacitor/app/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -39,7 +39,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/index.js": {
-    "file": "assets/esm-BA_ON7vN.js",
+    "file": "assets/esm-BIhgspHJ.js",
     "name": "esm",
     "src": "node_modules/@capacitor/filesystem/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -51,7 +51,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/web.js": {
-    "file": "assets/web-Blb133g5.js",
+    "file": "assets/web-D4XxQcU7.js",
     "name": "web",
     "src": "node_modules/@capacitor/filesystem/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -61,7 +61,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/index.js": {
-    "file": "assets/esm-DF9iIdcc.js",
+    "file": "assets/esm-BjnRb-HF.js",
     "name": "esm",
     "src": "node_modules/@capacitor/share/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -73,7 +73,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/web.js": {
-    "file": "assets/web-D0jzWuuI.js",
+    "file": "assets/web-RWFDZH1-.js",
     "name": "web",
     "src": "node_modules/@capacitor/share/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -82,7 +82,7 @@
     ]
   },
   "src/field.tsx": {
-    "file": "assets/field-DNiW3uOR.js",
+    "file": "assets/field-BjJq0pl5.js",
     "name": "field",
     "src": "src/field.tsx",
     "isDynamicEntry": true,
@@ -91,7 +91,7 @@
     ]
   },
   "src/zip.ts": {
-    "file": "assets/zip-Uk-izHdF.js",
+    "file": "assets/zip-BU8eP1zS.js",
     "name": "zip",
     "src": "src/zip.ts",
     "isDynamicEntry": true,
