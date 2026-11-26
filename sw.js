@@ -1,8 +1,8 @@
 const prefix = "coachplan:";
-const version = "5fbc7921404b2b062e";
+const version = "932c00bb544d7f9afa";
 const cacheName = prefix + self.registration.scope + ':' + version;
 const index = new URL('index.html', self.registration.scope).href;
-const files = new Set(["assets/esm-C-kskFxq.js","assets/esm-CHN50WOv.js","assets/esm-eTPzVXpb.js","assets/field-C9TE-mJs.js","assets/index-CE1aGtLP.css","assets/index-R2U1nkG8.js","assets/web-41WVSc8c.js","assets/web-F-u_4rLl.js","assets/web-b73rR0_5.js","assets/zip-CqJnub0-.js","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"].map(path => new URL(path, self.registration.scope).href));
+const files = new Set(["assets/esm-CLLq3G5E.js","assets/esm-CxetXInN.js","assets/esm-DZwwAO8F.js","assets/field-CcTq4pOB.js","assets/index-By5fvMSV.css","assets/index-CG5ktElu.js","assets/web-BkIhkRd9.js","assets/web-CxWW7G41.js","assets/web-uT9q5qHg.js","assets/zip-BPNhk33V.js","icon-192.png","icon-512.png","icon.svg","index.html","manifest.webmanifest"].map(path => new URL(path, self.registration.scope).href));
 self.addEventListener('install', event => {
   event.waitUntil(caches.open(cacheName).then(cache => cache.addAll([...files].map(url => new Request(url, { cache: 'reload' })))));
 });
