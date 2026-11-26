@@ -1,24 +1,25 @@
 {
   "index.html": {
-    "file": "assets/index-DGqfjMX6.js",
+    "file": "assets/index-CEwNnDSq.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
     "dynamicImports": [
-      "src/field.tsx",
-      "src/field.tsx",
       "node_modules/@capacitor/filesystem/dist/esm/index.js",
       "node_modules/@capacitor/share/dist/esm/index.js",
       "node_modules/@capacitor/app/dist/esm/index.js",
+      "node_modules/@capacitor/share/dist/esm/index.js",
+      "src/field.tsx",
+      "src/field.tsx",
       "src/zip.ts",
       "src/zip.ts"
     ],
     "css": [
-      "assets/index-BhTCcNCT.css"
+      "assets/index-DvccEt4w.css"
     ]
   },
   "node_modules/@capacitor/app/dist/esm/index.js": {
-    "file": "assets/esm-MEcuIrVZ.js",
+    "file": "assets/esm-Du_wH3PW.js",
     "name": "esm",
     "src": "node_modules/@capacitor/app/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -30,7 +31,7 @@
     ]
   },
   "node_modules/@capacitor/app/dist/esm/web.js": {
-    "file": "assets/web-D3Sum264.js",
+    "file": "assets/web-Di2by5Py.js",
     "name": "web",
     "src": "node_modules/@capacitor/app/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -39,7 +40,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/index.js": {
-    "file": "assets/esm-BIhgspHJ.js",
+    "file": "assets/esm-9BMqirrt.js",
     "name": "esm",
     "src": "node_modules/@capacitor/filesystem/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -51,7 +52,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/web.js": {
-    "file": "assets/web-D4XxQcU7.js",
+    "file": "assets/web-DaWNM4oT.js",
     "name": "web",
     "src": "node_modules/@capacitor/filesystem/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -61,7 +62,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/index.js": {
-    "file": "assets/esm-BjnRb-HF.js",
+    "file": "assets/esm-N1g6_rpL.js",
     "name": "esm",
     "src": "node_modules/@capacitor/share/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -73,7 +74,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/web.js": {
-    "file": "assets/web-RWFDZH1-.js",
+    "file": "assets/web-wdQ1KLHu.js",
     "name": "web",
     "src": "node_modules/@capacitor/share/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -82,7 +83,7 @@
     ]
   },
   "src/field.tsx": {
-    "file": "assets/field-BjJq0pl5.js",
+    "file": "assets/field-C0HOJP4O.js",
     "name": "field",
     "src": "src/field.tsx",
     "isDynamicEntry": true,
@@ -91,7 +92,7 @@
     ]
   },
   "src/zip.ts": {
-    "file": "assets/zip-BU8eP1zS.js",
+    "file": "assets/zip-ISByBIkB.js",
     "name": "zip",
     "src": "src/zip.ts",
     "isDynamicEntry": true,
