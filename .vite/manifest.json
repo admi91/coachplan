@@ -1,6 +1,6 @@
 {
   "index.html": {
-    "file": "assets/index-Bgvl_H2W.js",
+    "file": "assets/index-GILkZO2Z.js",
     "name": "index",
     "src": "index.html",
     "isEntry": true,
@@ -15,11 +15,11 @@
       "src/zip.ts"
     ],
     "css": [
-      "assets/index-C5T97t5V.css"
+      "assets/index-B6Rrtfpc.css"
     ]
   },
   "node_modules/@capacitor/app/dist/esm/index.js": {
-    "file": "assets/esm-CxvQddz2.js",
+    "file": "assets/esm-BbUiTydc.js",
     "name": "esm",
     "src": "node_modules/@capacitor/app/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -31,7 +31,7 @@
     ]
   },
   "node_modules/@capacitor/app/dist/esm/web.js": {
-    "file": "assets/web-DjPdFvcb.js",
+    "file": "assets/web-BGozhCFE.js",
     "name": "web",
     "src": "node_modules/@capacitor/app/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -40,7 +40,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/index.js": {
-    "file": "assets/esm-DZS_QP19.js",
+    "file": "assets/esm-D9I33614.js",
     "name": "esm",
     "src": "node_modules/@capacitor/filesystem/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -52,7 +52,7 @@
     ]
   },
   "node_modules/@capacitor/filesystem/dist/esm/web.js": {
-    "file": "assets/web-DjxwsyvK.js",
+    "file": "assets/web-BPC2HFVR.js",
     "name": "web",
     "src": "node_modules/@capacitor/filesystem/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -62,7 +62,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/index.js": {
-    "file": "assets/esm-CUq-tm9c.js",
+    "file": "assets/esm-gxFKBhy6.js",
     "name": "esm",
     "src": "node_modules/@capacitor/share/dist/esm/index.js",
     "isDynamicEntry": true,
@@ -74,7 +74,7 @@
     ]
   },
   "node_modules/@capacitor/share/dist/esm/web.js": {
-    "file": "assets/web-BG_WE2h8.js",
+    "file": "assets/web-Ca-HKhu6.js",
     "name": "web",
     "src": "node_modules/@capacitor/share/dist/esm/web.js",
     "isDynamicEntry": true,
@@ -83,7 +83,7 @@
     ]
   },
   "src/field.tsx": {
-    "file": "assets/field-Dmw-kHLl.js",
+    "file": "assets/field-DcHkLftc.js",
     "name": "field",
     "src": "src/field.tsx",
     "isDynamicEntry": true,
@@ -92,7 +92,7 @@
     ]
   },
   "src/zip.ts": {
-    "file": "assets/zip-Bj0VrfV8.js",
+    "file": "assets/zip-DO_bDop3.js",
     "name": "zip",
     "src": "src/zip.ts",
     "isDynamicEntry": true,
